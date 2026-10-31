@@ -142,29 +142,26 @@ This is a hostname-based evaluation. Different subdomains may still be treated a
 
 ### Individual confusion matrices
 
-#### Logistic Regression
+### Logistic Regression confusion matrix
 
 ![Logistic Regression confusion matrix](reports/figures/logistic_regression_confusion_matrix.png)
 
-#### Decision Tree
+### Decision Tree confusion matrix
 
 ![Decision Tree confusion matrix](reports/figures/decision_tree_confusion_matrix.png)
 
-#### K-Nearest Neighbors
+### KNN confusion matrix
 
 ![KNN confusion matrix](reports/figures/knn_confusion_matrix.png)
 
-#### Linear SVM
+### Linear SVM confusion matrix
 
 ![Linear SVM confusion matrix](reports/figures/linear_svm_confusion_matrix.png)
-
-#### Random Forest
-
-![Random Forest confusion matrix](reports/figures/random_forest_confusion_matrix.png)
 
 ### Decision Tree visualization
 
 ![First three levels of the Decision Tree](reports/figures/decision_tree_top_levels.png)
+
 
 ### Random Forest feature importance
 
