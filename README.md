@@ -126,6 +126,7 @@ A separate stratified group split kept each hostname entirely in either training
 This is a hostname-based evaluation. Different subdomains may still be treated as separate hosts, and its test samples differ from those in the random split.
 
 ## Figures
+## Figures
 
 ### Selected feature correlation heatmap
 
@@ -135,7 +136,21 @@ This is a hostname-based evaluation. Different subdomains may still be treated a
 
 ![Random Forest permutation importance](reports/figures/feature_importance.png)
 
-Additional charts and results are in the notebook.
+### Random Forest confusion matrix
+
+![Random Forest confusion matrix](reports/figures/random_forest_confusion_matrix.png)
+
+### Classifier comparison
+
+![Classifier comparison](reports/figures/classifier_comparison.png)
+
+### URL-only, HTML-only, and combined comparison
+
+![Feature group comparison](reports/figures/feature_group_comparison.png)
+
+### ROC curves
+
+![ROC curves for the five classifiers](reports/figures/roc_curves.png)
 
 ## Run the project
 
