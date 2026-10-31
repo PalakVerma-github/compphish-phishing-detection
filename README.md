@@ -125,7 +125,7 @@ A separate stratified group split kept each hostname entirely in either training
 
 This is a hostname-based evaluation. Different subdomains may still be treated as separate hosts, and its test samples differ from those in the random split.
 
-## Figures
+
 ## Figures
 
 ### Selected feature correlation heatmap
