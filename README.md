@@ -128,29 +128,52 @@ This is a hostname-based evaluation. Different subdomains may still be treated a
 
 ## Figures
 
-### Selected feature correlation heatmap
+### Correlation heatmap
 
 ![Selected feature correlation heatmap](reports/figures/selected_correlation_heatmap.png)
 
-### Random Forest permutation importance
-
-![Random Forest permutation importance](reports/figures/feature_importance.png)
-
-### Random Forest confusion matrix
-
-![Random Forest confusion matrix](reports/figures/random_forest_confusion_matrix.png)
-
 ### Classifier comparison
 
-![Classifier comparison](reports/figures/classifier_comparison.png)
-
-### URL-only, HTML-only, and combined comparison
-
-![Feature group comparison](reports/figures/feature_group_comparison.png)
+![Classifier performance comparison](reports/figures/classifier_comparison.png)
 
 ### ROC curves
 
 ![ROC curves for the five classifiers](reports/figures/roc_curves.png)
+
+### Individual confusion matrices
+
+#### Logistic Regression
+
+![Logistic Regression confusion matrix](reports/figures/logistic_regression_confusion_matrix.png)
+
+#### Decision Tree
+
+![Decision Tree confusion matrix](reports/figures/decision_tree_confusion_matrix.png)
+
+#### K-Nearest Neighbors
+
+![KNN confusion matrix](reports/figures/knn_confusion_matrix.png)
+
+#### Linear SVM
+
+![Linear SVM confusion matrix](reports/figures/linear_svm_confusion_matrix.png)
+
+#### Random Forest
+
+![Random Forest confusion matrix](reports/figures/random_forest_confusion_matrix.png)
+
+### Decision Tree visualization
+
+![First three levels of the Decision Tree](reports/figures/decision_tree_top_levels.png)
+
+### Random Forest feature importance
+
+![Random Forest permutation importance](reports/figures/feature_importance.png)
+
+### Feature-group comparison
+
+![URL-only, HTML-only, and combined feature comparison](reports/figures/feature_group_comparison.png)
+
 
 ## Run the project
 
