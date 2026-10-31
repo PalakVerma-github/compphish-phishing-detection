@@ -1,4 +1,4 @@
-```markdown
+
 # CompPhish Phishing Website Detection
 
 A machine learning project comparing URL-derived and HTML-derived features for phishing website detection.
@@ -157,4 +157,4 @@ The random split may include related hosts in both sets. The hostname-based spli
 
 - Goenka, R. (2026). *CompPhish*, Mendeley Data, Version 3. [https://doi.org/10.17632/fmbs4kp9wz.3](https://doi.org/10.17632/fmbs4kp9wz.3). Licence: CC BY 4.0.
 - Goenka, R., Chawla, M., & Tiwari, N. (2026). “CompPhish: A comprehensive dataset for diversified phishing detection.” *Data in Brief*, 69, 113219. [https://doi.org/10.1016/j.dib.2026.113219](https://doi.org/10.1016/j.dib.2026.113219).
-```
+
